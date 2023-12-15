@@ -1,4 +1,5 @@
-# Blackjack Game
+# Game Illumina
+This project features two applications: a console-based Blackjack game and a JavaFX-based Flash Card Game. The Flash Card Game tests users on basic arithmetic (addition, subtraction, multiplication, and division) with a user-friendly interface, score tracking, and a timed challenge component.
 
 This is a simple console-based Blackjack game implemented in Java. The game allows a single player to play against the dealer, following standard Blackjack rules.
 
@@ -6,7 +7,7 @@ This is a simple console-based Blackjack game implemented in Java. The game allo
 
 Before you begin, ensure you have met the following requirements:
 - You have installed Java JDK 19 or later.
-- You have a basic understanding of Java and terminal/command line usage.
+- JavaFX SDK
 
 ## Installing Blackjack
 
