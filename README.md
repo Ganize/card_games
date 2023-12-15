@@ -1,30 +1,23 @@
 # Game Illumina
-This project features two applications: a console-based Blackjack game and a JavaFX-based Flash Card Game. The Flash Card Game tests users on basic arithmetic (addition, subtraction, multiplication, and division) with a user-friendly interface, score tracking, and a timed challenge component.
-
-This is a simple console-based Blackjack game implemented in Java. The game allows a single player to play against the dealer, following standard Blackjack rules.
+This project includes two Java games: a console-based Blackjack game where a single player competes against the dealer following standard rules, and a JavaFX-based Flash Card Game that tests users with random arithmetic questions, tracking scores and featuring a user-friendly interface with a timed challenge.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 - You have installed Java JDK 19 or later.
 - JavaFX SDK
-
-## Installing Blackjack
-
-To install Blackjack, follow these steps:
-
-1. Clone the repository to your local machine:
-2. Navigate to the directory where you cloned the repository.
+- Intellij installed
+- Clone the repository to your local machine. I will suggest using HTTP.
+- Navigate to the directory where you cloned the repository.
+- Import the project onto IntelliJ
 
 ## Running Blackjack
 
 To run Blackjack, follow these steps:
+1. Navigate to Blackjack.java (src/main/java/org.example/Blackjack), and there will be a "RUN" logo beside the class.
+2. Click on it
 
-1. Install Intellij
-2. Import the project onto IntelliJ
-4. Lastly, press the 'RUN' logo at the top menu
-
-## How to Play
+## How to Play Blackjack
 
 Once the game starts, you will be prompted to hit or stay for each round. The aim is to beat the dealer's hand without going over 21. Face cards count as 10, and aces can be either 1 or 11.
 
@@ -32,6 +25,17 @@ Once the game starts, you will be prompted to hit or stay for each round. The ai
 - To **Stay**, type `S` and press Enter.
 
 The game continues until you decide to quit after each round.
+
+
+## Running FlashCard
+
+To run flashcard, follow these steps:
+1. Navigate to FlashCardGameApp.java (src/main/java/com.game.flashcard). There will be a "RUN" logo beside the class
+2. Click on it
+
+## How to Play Flashcard
+
+Once the game starts, a 1 minute timer will be started. Answer as many questions on multiply, division, additional and substraction. When the timer run out, it will show you the total score
 
 ## Contact
 
