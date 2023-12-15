@@ -35,10 +35,8 @@ To run flashcard, follow these steps:
 
 ## How to Play Flashcard
 
-Once the game starts, a 1 minute timer will be started. Answer as many questions on multiply, division, additional and substraction. When the timer run out, it will show you the total score
+When the game begins, a 1-minute timer starts, challenging you to answer as many multiplication, division, addition, and subtraction questions as possible. Once the time expires, your total score will be displayed.
 
 ## Contact
 
 If you have any questions or want to contact me, please reach out at brucegan95@outlook.com.
-
-
