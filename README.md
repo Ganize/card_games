@@ -20,9 +20,8 @@ To install Blackjack, follow these steps:
 To run Blackjack, follow these steps:
 
 1. Install Intellij
-2. Impoort the project onto IntelliJ
-3. Wait for to download the dependencies
-4. Lastly, press the 'RUN' button at the top right corner
+2. Import the project onto IntelliJ
+4. Lastly, press the 'RUN' logo at the top menu
 
 ## How to Play
 
